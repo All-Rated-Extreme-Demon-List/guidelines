@@ -1,0 +1,20 @@
+{
+  "name": "aredl-guidelines-builder",
+  "version": "1.0.0",
+  "description": "Script that creates a JSON file that maps out the guidelines directory",
+  "main": "build.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/All-Rated_Extreme-Demons-List/guidelines.git"
+  },
+  "author": "sphericle",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
