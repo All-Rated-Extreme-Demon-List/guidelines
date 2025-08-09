@@ -1,10 +1,16 @@
 # Clicks
-Your completion video or raw footage must have clicks **fully audible** throughout the **entire** completion. There are very little exceptions to this rule, as hearing the clicks in a completion is an integral part of the record reviewal process. **Every click in the your completion must be clearly heard in the audio.**
+**Your completion video or raw footage must have clicks fully audible throughout the entire completion.** There are very little exceptions to this rule, as hearing the clicks in a completion is an integral part of the record reviewal process. It is possible for your record to be denied if your clicks are very quiet but still technically audible, as it can be very hard for the list team to distinguish them from the level's song. To reiterate, **every click in the your completion must be clearly heard in the audio.**
 
 ## Date exception
-If your completion is dated before *August 25th 2020*, your record is exempt from this rule. 
+If your completion is dated before *August 25th 2020*, your record is exempt from this rule. Please read more information about exceptions to our guidelines here. [TODO: add link]
+
 ## Removing clicks
 You are allowed to edit out your microphone audio from your public video, as long as you **submit a video with the unedited audio under the “Raw Footage” section** in the record submitter. In this scenario, both videos need to follow the “Deleting Videos” rule, meaning both videos need to remain accessible to the list team. 
 
 ## Non-alternatives
 There are some misconceptions regarding alternatives to having audible clicks. Clickbots (mods that produce artificial click sounds, e.g. [Click Sounds](https://geode-sdk.org/mods/beat.click-sound), [ZCB Live](https://geode-sdk.org/mods/zeozeozeo.zcblive), any clickbot built into a macro software), CPS Counters, and [the Inputs Viewer mod](https://geode-sdk.org/mods/khronophobia.inputs_viewer) are **not** substitutes for having audible clicks, as they can be influenced by third-party tools. Note that the use of clickbots is banned in records altogether, even if your completion also has real clicks. You can read more about disallowed mods here. [TODO: add link to section]
+
+## Microphone issues
+If your microphone has any sort of built-in noise cancellation, a noise gate, or other feature that could remove background noise or quiet sounds, or otherwise fails to consistently capture your click sounds, please double-check that your clicks remain audible with that feature in use.
+If said feature causes your clicks to become very quiet, or they are mostly audible but some get cut off, your record can be denied.
+To combat this, you can try disabling this feature entirely, moving your microphone closer to your input device, or recording your clicks with a separate device, like a phone. If you use a phone to record clicks, please mention as such in the Additional Notes, along with a link to download the recording.
