@@ -2,7 +2,7 @@
 Your completion video or raw footage must have clicks **fully audible** throughout the **entire** completion. There are very little exceptions to this rule, as hearing the clicks in a completion is an integral part of the record reviewal process. **Every click in the your completion must be clearly heard in the audio.**
 
 ## Date exception
-If your completion took place before after *August 25th 2020*, your record is exempt from this rule. 
+If your completion is dated before *August 25th 2020*, your record is exempt from this rule. 
 ## Removing clicks
 You are allowed to edit out your microphone audio from your public video, as long as you **submit a video with the unedited audio under the “Raw Footage” section** in the record submitter. In this scenario, both videos need to follow the “Deleting Videos” rule, meaning both videos need to remain accessible to the list team. 
 
