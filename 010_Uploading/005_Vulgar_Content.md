@@ -1,4 +1,4 @@
-## Vulgar content
+## Vulgar Content
 
 **Videos with extremely vulgar or otherwise offensive content or audio can be denied.** The list team will decide on a case by case basis what constitutes as “vulgar or offensive content or audio”. 
 Examples of this include but are not limited to hate speech, repetition of slurs, or anything offensive and/or in violation of the platform your video is hosted on.

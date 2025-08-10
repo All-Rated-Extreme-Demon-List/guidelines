@@ -1,3 +1,3 @@
-# Level stats
+# Level Stats
 
 **Your record must show the stats shown on the endscreen (attempts, stars, orbs, jumps, time, etc.).** However, if you’ve completed a level more than once, you are required to say so in the Additional Notes when you submit. If you do plan to submit a rebeat of a level, we highly encourage you to “Uncomplete” the level via a mod like [Mega Hack](https://absolllute.com/store/mega_hack) or any free alternatives on [Geode](https://geode-sdk.org/), like [Eclipse](https://geode-sdk.org/mods/eclipse.eclipse-menu). This is encouraged because no stats being awarded on a level’s endscreen is a sign of the use of copies and may cause suspicion.

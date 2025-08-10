@@ -13,5 +13,5 @@ Due to the relatively recent growth of Geometry Dash modding and the optionality
 
 You can read more about date exceptions here. [TODO: add link]
 
-## Indicator types
+## Indicator Types
 As previously stated, your cheat indicator must indicate a legitimate completion. In Mega Hack, the most popular mod menu in Geometry Dash, both dots on the top left of the endscreen window should be green. If either dot is any color but green, including the yellow dot due to safe mode being on, your record will be denied. You can read more about Safe Mode and which Mega Hack cheats are allowed for use in records here. [TODO: add link]
