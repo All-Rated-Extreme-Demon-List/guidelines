@@ -29,6 +29,6 @@ data.sort(
         (typeof f1 === "string" ? f1.localeCompare(f2.name) : f1.name.localeCompare(f2))
 );
 
-fs.writeFileSync("./_index.json", JSON.stringify(data));
+fs.writeFileSync("./_index.json", JSON.stringify(data, null, 4));
 
 console.log("Guidelines data building done.")

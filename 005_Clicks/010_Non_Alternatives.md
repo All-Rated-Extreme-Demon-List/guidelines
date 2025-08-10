@@ -1,0 +1,3 @@
+## Non-alternatives
+
+There are some misconceptions regarding alternatives to having audible clicks. **The only click sounds we accept are from a microphone.** Clickbots (mods that produce artificial click sounds, e.g. [Click Sounds](https://geode-sdk.org/mods/beat.click-sound), [ZCB Live](https://geode-sdk.org/mods/zeozeozeo.zcblive), any clickbot built into a macro software, etc.), CPS Counters, and [the Inputs Viewer mod](https://geode-sdk.org/mods/khronophobia.inputs_viewer), etc. are **not** substitutes for having audible clicks, as they can be influenced by third-party tools. Note that the use of clickbots is banned in records altogether, even if your completion also has real clicks. You can read more about disallowed mods here. \[TODO: add link to section\]
