@@ -2,8 +2,6 @@
 
 If the level you are submitting for is in the top 400, you must submit your raw footage **with your clicks on an isolated audio track** for the list team to review, along with a publicly viewable video. This raw footage file is to be uploaded differently than the public video, which should follow the Uploading guidelines [TODO: add link]. “Raw footage” means the unedited recording of your completion, which should come straight from your recording software. You are not allowed to edit this file in any capacity before submitting. Raw footage is considered confidential to the list team and will never be shared with anyone.
 
-**This rule** 
-
 ## Isolated clicks
 
 Your microphone audio (more specifically, your click sounds) must be on a **separated and isolated audio track** in your raw footage file. This means that one of the audio tracks must record your microphone audio, and **only** your microphone audio. Here are some guides explaining how to configure this with some popular recording softwares:
