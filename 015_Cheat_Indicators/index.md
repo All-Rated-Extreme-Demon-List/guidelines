@@ -6,6 +6,7 @@
 
 Due to the relatively recent growth of Geometry Dash modding and the optionality of external mods, there are a few exceptions to this rule. These exceptions are prioritized in the order they are listed, meaning if two exceptions conflict with eachother, the one listed higher will take priority and override the one listed lower:
 
+- Your record does not need to follow this rule if it has been accepted on Pointercrate. You can read more about records already accepted on Pointercrate here. [TODO: add link]
 - If your completion took place before July 2nd, 2023, any **mod menus** used in your completion are not required to have the cheat indicator visible. We classify a “mod menu” as any external mod or hack that provides a collection of toggle-able hacks and changes to the game. Common examples include [Mega Hack](https://absolllute.com/store/mega_hack), [QOLMod](https://geode-sdk.org/mods/thesillydoggo.qolmod), [Eclipse](https://geode-sdk.org/mods/eclipse.eclipse-menu), and [Prism Menu](https://geode-sdk.org/mods/firee.prism).
 - If the hack or mod used in your completion does not have an endscreen cheat indicator but does have an in-level cheat indicator, **the in-level cheat indicator is required to be clearly visible throughout your completion.**
 - If your completion uses a mod or hack that has a cheat indicator, but took place **before said cheat indicator was added to the mod**, the requirement of that cheat indicator will be waived for your completion.
