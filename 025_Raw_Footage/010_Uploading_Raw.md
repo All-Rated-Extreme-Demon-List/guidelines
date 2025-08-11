@@ -12,4 +12,5 @@ If your completion is recorded through a livestream on YouTube or Twitch, the li
 
 If you cannot upload your raw footage to any file-sharing platform, and your raw footage is not in the form of a VOD, you can also request a list staff member to watch your raw footage from a stream in a Discord call. **This is an absolute last resort that should only be used if you definitely cannot use either of the above methods to submit.** If you do this, please ensure you only play the audio track your clicks are recorded on.
 
+## Raw footage deletion
 Unlike your public video, you are allowed to delete your raw footage after your record is reviewed. This is done because it is impractical for players to keep their raw footage accessible forever, due to limitations like storage limits.
