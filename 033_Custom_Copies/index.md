@@ -4,6 +4,6 @@
 
 ## Approval process {:custom-copies-approval}
 
-To get your LDM or bugfix approved, file a ticket on our Discord server (in #support) with the level ID and a video showcase of the level.
+To get your LDM or bugfix approved, file a ticket on our [Discord server](discord.gg/aredl) (in #support) with the level ID and a video showcase of the level.
 
 Your copy must not change the gameplay of the level. If you are using an LDM, it must not remove so much detail that it makes the level easier. If you are using a bugfix copy, please make sure you aren’t mistaking an inconsistent part or input in a level with a bug.
