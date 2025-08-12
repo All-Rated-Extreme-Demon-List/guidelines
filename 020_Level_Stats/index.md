@@ -4,4 +4,4 @@
 
 ## Exceptions {:level-stats-exceptions}
 
-Your record does not need to follow this rule if it has been accepted on Pointercrate. You can read more about records already accepted on Pointercrate here. \[TODO: add link\]
+Your record does not need to follow this rule if it has been accepted on Pointercrate. You can read more about records already accepted on Pointercrate [here](#pointercrate-auto-accept).

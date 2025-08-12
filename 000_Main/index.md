@@ -4,4 +4,4 @@
 
 While these guidelines are used by the list team to determine whether a record will be accepted or denied, and hope to be as accurate and detailed as possible, records can still be denied even if they do not break any rules listed here. However, if you believe your record has been wrongfully rejected, please resubmit it and explain in the additional notes why you think so.
 
-This page’s content is available in markdown format on GitHub \[TODO: insert link\], so if you notice any errors or badly worded sections, feel free to open a pull request.
+This page’s content is available in markdown format on [GitHub](https://github.com/All-Rated-Extreme-Demon-List/guidelines), so if you notice any errors or badly worded sections, feel free to open a pull request.

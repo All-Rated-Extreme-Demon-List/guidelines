@@ -4,7 +4,5 @@
 
 ## Exceptions {:exceptions}
 
-* If your completion is dated before *August 25th 2020*, your record is exempt from this rule. Please read more information about exceptions to our guidelines here. \[TODO: add link\]
-* Your record does not need to follow this rule if it has been accepted on Pointercrate. You can read more about records already accepted on Pointercrate here. \[TODO: add link\]
-
-
+* If your completion is dated before *August 25th 2020*, your record is exempt from this rule. Please read more information about exceptions to our guidelines [here](#guideline-exceptions).
+* Your record does not need to follow this rule if it has been accepted on Pointercrate. You can read more about records already accepted on Pointercrate [here](#pointercrate-auto-accept).
