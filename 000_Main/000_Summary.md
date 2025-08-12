@@ -1,4 +1,4 @@
-## Summary
+## Summary {:guideline-summary}
 
 While we advise you to read the guidelines in full, here are the main things you should keep in mind:
 
