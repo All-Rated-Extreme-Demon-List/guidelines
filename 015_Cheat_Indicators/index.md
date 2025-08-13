@@ -4,7 +4,7 @@
 
 ## Exceptions {:exceptions}
 
-Due to the relatively recent growth of Geometry Dash modding and the optionality of external mods, there are a few exceptions to this rule. These exceptions are prioritized in the order they are listed, meaning if two exceptions conflict with eachother, the one listed higher will take priority and override the one listed lower:
+Due to the relatively recent growth of Geometry Dash modding and the optionality of external mods, there are a few exceptions to this rule:
 
 * Your record does not need to follow this rule if it has been accepted on Pointercrate. You can read more about records already accepted on Pointercrate [here](#pointercrate-auto-accept). 
 * If your completion took place before July 2nd, 2023, any **mod menus** used in your completion are not required to have the cheat indicator visible. We classify a “mod menu” as any external mod or hack that provides a collection of toggle-able hacks and changes to the game. Common examples include [Mega Hack](https://absolllute.com/store/mega_hack), [QOLMod](https://geode-sdk.org/mods/thesillydoggo.qolmod), [Eclipse](https://geode-sdk.org/mods/eclipse.eclipse-menu), and [Prism Menu](https://geode-sdk.org/mods/firee.prism).
