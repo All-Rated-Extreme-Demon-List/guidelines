@@ -1,10 +1,10 @@
 ### We **highly** recommend you [read the full guidelines here](/guidelines/), but these are the main things you need to know.
 
 * Your record must have your clicks *COMPLETELY* audible throughout the whole level.
-* Your completion video must be uploaded to YouTube or another video sharing platform.
-* Completion videos may not be deleted after they are accepted.
-* Videos with extremely vulgar content or audio can be denied.
-* Your record must have a cheat indicator visible on the level's end screen.
+* Your completion video must be recorded and uploaded to YouTube or another video sharing platform.
+* Public completion videos may not be deleted after your record is accepted.
+* Videos with extremely vulgar content can be denied.
+* If you use a mod menu, your record must have a cheat indicator visible on the level's end screen.
 * If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff, or not make a difference without a doubt.
 * Your record must show the stats shown on the endscreen (attempts, orbs, etc.).
 * If your record is in the top 400, you must have raw footage, with split audio tracks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video.
