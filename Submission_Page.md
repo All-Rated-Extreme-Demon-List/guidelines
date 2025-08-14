@@ -1,4 +1,4 @@
-We **highly recommend** you [read the guidelines in full](/guidelines/), but these are the main things you need to know.
+We **highly recommend** you [read the guidelines in full](/guidelines/), but these are the main things you need to know:
 
 * Your record must have your clicks *COMPLETELY* audible throughout the whole level.
 * Your completion video must be uploaded to YouTube or another video sharing platform.
