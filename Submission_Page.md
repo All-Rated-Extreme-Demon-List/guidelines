@@ -1,4 +1,4 @@
-### We **highly** recommend you [<span class="text-primary">read the full guidelines here</span>](/guidelines/), but these are the main things you need to know.
+### We **highly** recommend you <span class="text-primary">[read the full guidelines here](/guidelines/)</span>, but these are the main things you need to know.
 
 * Your completion video and raw footage must have all clicks fully audible throughout the entire completion.
 * You must record and upload a video of your completion to YouTube or another video sharing platform..
