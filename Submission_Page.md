@@ -1,15 +1,12 @@
 ### We **highly** recommend you [read the full guidelines here](/guidelines/), but these are the main things you need to know.
 
-* Your record must have your clicks *COMPLETELY* audible throughout the whole level.
-* Your completion video must be recorded and uploaded to YouTube or another video sharing platform.
-* Public completion videos may not be deleted after your record is accepted.
-* Videos with extremely vulgar content can be denied.
-* If you use a mod menu, your record must have a cheat indicator visible on the level's end screen.
-* If you are using an LDM or a bugfix copy of a level, it must either be approved by list staff, or not make a difference without a doubt.
-* Your record must show the stats shown on the endscreen (attempts, orbs, etc.).
-* If your record is in the top 400, you must have raw footage, with split audio tracks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video.
+* Your completion video and raw footage must have all clicks fully audible throughout the entire completion.
+* You must record and upload a video of your completion to YouTube or another video sharing platform..
+* Completion videos may not be deleted after they are accepted.
+* If your video was uploaded after July 2nd, 2023, your record must have all cheat indicators visible on the level's end screen.
+* Your record must show the stats on the endscreen (attempts, orbs, etc.).
+* If your record is in the top 400, you must have raw footage, with isolated clicks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video.
 * Your record may not use any disallowed mods.
+* If you are using a custom copy of a level, it must either be approved by list staff, or not significantly affect the level's gameplay or difficulty without a doubt.
 * During your completion, you may not use any skips that make any section of the level significantly easier.
-* Globed 2P Completions will be allowed on AREDL, however, your video needs to have both POVs, or you need to submit your friend's video in the notes.
-
-
+* Globed 2P Completions are allowed, however, you need to include both POVs in the video or provide a link to watch the other POV, and the completion must be on an approved Globed 2P copy.
