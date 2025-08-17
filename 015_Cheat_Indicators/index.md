@@ -4,7 +4,7 @@
 
 Note that you will be required to specify which mod menu(s) you used in your completion, if any, when you submit. If you used multiple, please list all of them in your Additional Notes.
 
-## Exceptions {:exceptions}
+## Exceptions {:cheat-indicator-exceptions}
 
 Due to the relatively recent growth of Geometry Dash modding and the optionality of external mods, there are a few exceptions to this rule:
 
