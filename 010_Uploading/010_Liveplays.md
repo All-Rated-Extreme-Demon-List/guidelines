@@ -1,3 +1,3 @@
 ## Liveplays {:liveplays}
 
-A “liveplay” is an external recording of your computer’s screen with a camera. Liveplays are allowed for use in records, as long as they comply with the same guidelines as normal screen recordings. Please make sure your game window and colors are clearly visible, and that nothing in front of your camera is blocking the screen.
+A “liveplay” is an external recording of your computer’s screen with a camera. Liveplays are allowed for use in records, as long as they comply with the same guidelines as normal screen recordings. Please make sure your game window and colors are clearly visible, and that nothing in front of your camera is blocking the screen. If the list team cannot clearly see the color of your cheat indicator, if you have one, your record will be denied!
