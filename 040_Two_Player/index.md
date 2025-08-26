@@ -1,5 +1,5 @@
 # Two player {:two-player}
-You are only allowed to use a second player for parts with the Two Player mode in Geometry Dash. Singleplayer parts must be played by one person only.
+You are only allowed to use a second player for parts with the Two Player mode in Geometry Dash. Singleplayer parts must be played by one person only. You are also not allowed to from switching players during an attempt.
 
 On the list, almost all two player Extreme demons have 2 placements: one for beating it solo, and one for beating it with another person. If your completion was done with another person, including completions through Globed, select the level suffixed with "(2P)". Otherwise, select the level suffixed with "(Solo)".
 
