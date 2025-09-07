@@ -1,4 +1,4 @@
-Versions {:gd-versions}
+# Versions {:gd-versions}
 
 If you are playing on a version of Geometry Dash that is not the latest version, you must follow the guidelines for records of that version. For records which took place on a version before 2.2, this means the FPS counter must be visible, and your FPS Bypass must not be set above 360 FPS.
 
