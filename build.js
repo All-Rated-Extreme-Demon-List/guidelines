@@ -14,20 +14,20 @@ fs.readdirSync(guidelinesPath).forEach(file => {
     if (!fs.statSync(file).isDirectory()) return;
 
     const indexFileResponse = fs.readFileSync(`${guidelinesPath}${file}/index.md`, "utf-8");
-    content += indexFileResponse;
+    content += indexFileResponse.trim() + "\n\n";
     fs.readdirSync(`${guidelinesPath}${file}`).forEach(subfile => {
         if (subfile == "index.md") return;
         if (ignored.includes(subfile)) return;
         if (fs.statSync(`${guidelinesPath}${file}/${subfile}`).isDirectory()) return;
         
         const subfileContent = fs.readFileSync(`${guidelinesPath}${file}/${subfile}`, "utf-8");
-        content += subfileContent;
+        content += subfileContent.trim() + "\n\n";
     });
 
 
 })
 
-fs.writeFileSync("./data.txt", JSON.stringify(content, null, 4));
+fs.writeFileSync("./data.txt", content);
 
 console.log("Guidelines data building done.")
 
