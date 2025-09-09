@@ -1,7 +1,7 @@
 ### We **highly** recommend you [read the full guidelines here](/guidelines/), but these are the main things you need to know.
 
 * Your completion video and raw footage must have all clicks fully audible throughout the entire completion.
-* You must record and upload a video of your completion to YouTube or another video sharing platform..
+* You must record and upload a video of your completion to YouTube or another video sharing platform.
 * Completion videos may not be deleted after they are accepted.
 * If your video was uploaded after July 2nd, 2023, your record must have all cheat indicators visible on the level's end screen.
 * Your record must show the stats on the endscreen (attempts, orbs, etc.).
