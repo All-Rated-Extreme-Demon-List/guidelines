@@ -6,7 +6,7 @@ To submit your raw footage, you must upload it in a way that lets us access the 
 
 ### VOD
 
-If your completion is recorded through a livestream on YouTube or Twitch, the livestream VOD counts as a form of raw footage, however **note that a downloadable video file is preferred.**
+If your completion is recorded through a livestream on YouTube or Twitch, the public and unedited livestream VOD counts as a form of raw footage, however **note that a downloadable video file is preferred.**
 
 ### Discord call
 
