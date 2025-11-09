@@ -3,6 +3,6 @@
 This section will list a changelog for these guidelines, along with the dates of each change:
 
 
-> * ???? ??, 2025 \[TODO: add this date\] - The guidelines page was created
+> * November 8th, 2025 - This guidelines page was created
 
 
