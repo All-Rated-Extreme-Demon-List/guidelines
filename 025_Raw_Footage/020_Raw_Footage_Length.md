@@ -1,3 +1,3 @@
-## Raw footage length {:raw-footage-length}
+## Raw Footage Length {:raw-footage-length}
 
 We accept raw footage of any length, as long as it contains the entire completion attempt and endscreen. We recommend a range of 5-10 minutes of raw footage, but your record is not necessarily unacceptable if your raw footage is not in this range. You are also allowed to stop and restart your recording to save disk space or to remove something from the recording.

@@ -1,4 +1,4 @@
-## Isolated clicks {:isolated-clicks}
+## Isolated Clicks {:isolated-clicks}
 
 Your microphone audio (more specifically, your click sounds) must be on a **separated and isolated audio track** in your raw footage file. This means that one of the audio tracks must record your microphone audio, and **only** your microphone audio. Here are some guides explaining how to configure this with some popular recording softwares:
 

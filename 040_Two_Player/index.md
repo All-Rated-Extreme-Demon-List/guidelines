@@ -1,4 +1,4 @@
-# Two player {:two-player}
+# Two Player {:two-player}
 Unless stated otherwise, all completions must be performed by a single player. A second player may only participate in sections of a level that use the in-game 2 player mode. If you complete a Two Player level solo, you must include a clearly visible webcam showing both hands throughout your entire completion. The handcam footage can be directly in the completion video, or recorded and uploaded separately from another device, with a link to view the footage in the submission notes.
 
 For many Two Player levels, there are 2 distinct entries on the website for either solo or 2 player completions. Upon attempting to submit a record for such a Two Player level, choose the option which aligns with the way it was completed, either "Solo" or "2P." 

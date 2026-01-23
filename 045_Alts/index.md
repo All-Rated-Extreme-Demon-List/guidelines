@@ -1,4 +1,4 @@
-# Alt accounts {:alt-accounts}
+# Alt Accounts {:alt-accounts}
 
 Submitting records with alternate accounts on the AREDL website is not allowed in any capacity. This includes but is not limited to ban evasion, impersonation, and submitting records for another player. You may only submit **your own records** under your main Discord account. 
 
