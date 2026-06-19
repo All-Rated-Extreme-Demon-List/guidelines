@@ -2,6 +2,8 @@
 
 This section will list a changelog for these guidelines, along with the dates of each change:
 
+> * June 18th, 2026 - Required all custom copies to be approved by list staff before submission, disallowed completions on local copies, removed option to screenshare raw footage through Discord.
+
 > * February 12th, 2026 - Require liveplays and raw footage for records on primary invisible levels
 
 > * January 22nd, 2026 - Document allowed completion link platforms
