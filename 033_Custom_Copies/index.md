@@ -1,6 +1,12 @@
 # Custom Copies {:custom-copies}
 
-**If you are using a custom copy of a level (e.g. LDMs, Bugfixes), it must either be approved by list staff before you submit, or not significantly affect the level's gameplay or difficulty without a doubt.** We highly advise you to always approve your custom copies before attempting to use them. However, if you're absolutely certain that your copy is fine, you do not need to get it approved to get your record accepted.
+**If you are using a custom copy of a level (e.g. LDMs, Bugfixes), it must either be approved by list staff before you submit your record.**. If using a custom copy, your completion must be done on the published version of the copy on the servers (not a locally stored copy).
+
+Your custom copy will be denied if it:
+- Modifies the gameplay of the level.
+- Removes enough detail to where the level becomes easier.
+- Changes gameplay that is not a bug.
+- Adds or changes decoration of sections of a level.
 
 ## Pre-Approved Copies {:pre-approved-copies}
 The AREDL website provides pre-approved copies of levels, such as LDMs or Globed 2P copies, for your convenience. All copies found on our website are allowed and do not require approval. You can view a level's pre-approved copies by clicking on the arrow to the right of the "Level ID" text, if any.
