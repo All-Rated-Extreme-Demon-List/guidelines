@@ -10,4 +10,4 @@ If your completion is recorded through a public livestream on YouTube or Twitch 
 
 ## Raw Footage Deletion {:raw-deletion}
 
-Unlike your public video, you are allowed to delete your raw footage after your record is reviewed. This is done because it is impractical for players to keep their raw footage accessible forever, due to limitations like storage limits.
+Unlike your public video, you are allowed to delete your raw footage after your record is reviewed.
