@@ -8,4 +8,4 @@ If you use a webcam, please make sure it does not cover or obscure parts of your
 
 ### Invisible Level Requirements
 
-For levels that have primarily invisible gameplay such as of Ambrosia or M A N I X, players are required to submit [raw footage](#raw-footage) along with [liveplay footage](#liveplays) of their monitor.
+For levels that have primarily invisible gameplay such as of Ambrosia or M A N I X, players are required to submit [raw footage](#raw-footage) in the form of a [liveplay](#liveplays) of their monitor.
