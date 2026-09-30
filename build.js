@@ -2,11 +2,8 @@ import fs from "fs";
 
 console.log("Building guidelines data...");
 
-const outputPath = "./build";
 const lists = ["Classic", "Platformer"];
 const ignored = fs.readFileSync("./.gitignore", "utf-8").split(/\r?\n/);
-
-fs.mkdirSync(outputPath, { recursive: true });
 
 lists.forEach(list => {
     const guidelinesPath = `./${list}`;
@@ -31,7 +28,7 @@ lists.forEach(list => {
         files.push(fileStr);
     });
 
-    const outputFile = `${outputPath}/${list.toLowerCase()}.json`;
+    const outputFile = `${guidelinesPath}/data.json`;
     fs.writeFileSync(outputFile, JSON.stringify(files));
     console.log(`Built ${outputFile}`);
 });
