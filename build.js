@@ -2,35 +2,39 @@ import fs from "fs";
 
 console.log("Building guidelines data...");
 
-const guidelinesPath = "./";
+const outputPath = "./build";
+const lists = ["Classic", "Platformer"];
+const ignored = fs.readFileSync("./.gitignore", "utf-8").split(/\r?\n/);
 
-const ignored = fs.readFileSync("./.gitignore", "utf-8").split("\n");
+fs.mkdirSync(outputPath, { recursive: true });
 
-const files = []
+lists.forEach(list => {
+    const guidelinesPath = `./${list}`;
+    const files = [];
 
+    fs.readdirSync(guidelinesPath).forEach(file => {
+        const filePath = `${guidelinesPath}/${file}`;
+        if (file.startsWith(".")) return;
+        if (ignored.includes(file)) return;
+        if (!fs.statSync(filePath).isDirectory()) return;
 
-fs.readdirSync(guidelinesPath).forEach(file => {
-    let fileStr = "";
-    if (file.startsWith(".")) return;
-    if (ignored.includes(file)) return;
-    if (!fs.statSync(file).isDirectory()) return;
+        let fileStr = fs.readFileSync(`${filePath}/index.md`, "utf-8").trim() + "\n\n";
+        fs.readdirSync(filePath).forEach(subfile => {
+            const subfilePath = `${filePath}/${subfile}`;
+            if (subfile == "index.md") return;
+            if (ignored.includes(subfile)) return;
+            if (fs.statSync(subfilePath).isDirectory()) return;
 
-    const indexFileResponse = fs.readFileSync(`${guidelinesPath}${file}/index.md`, "utf-8");
-    fileStr += indexFileResponse.trim() + "\n\n";
-    fs.readdirSync(`${guidelinesPath}${file}`).forEach(subfile => {
-        if (subfile == "index.md") return;
-        if (ignored.includes(subfile)) return;
-        if (fs.statSync(`${guidelinesPath}${file}/${subfile}`).isDirectory()) return;
-        
-        const subfileContent = fs.readFileSync(`${guidelinesPath}${file}/${subfile}`, "utf-8");
-        fileStr += subfileContent.trim() + "\n\n";
+            const subfileContent = fs.readFileSync(subfilePath, "utf-8");
+            fileStr += subfileContent.trim() + "\n\n";
+        });
+        files.push(fileStr);
     });
-    files.push(fileStr);
 
-
-})
-
-fs.writeFileSync("./data.json", JSON.stringify(files));
+    const outputFile = `${outputPath}/${list.toLowerCase()}.json`;
+    fs.writeFileSync(outputFile, JSON.stringify(files));
+    console.log(`Built ${outputFile}`);
+});
 
 console.log("Guidelines data building done.")
 

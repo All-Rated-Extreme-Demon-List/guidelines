@@ -1,0 +1,13 @@
+# Two Player {:two-player}
+Unless stated otherwise, all completions must be performed by a single player. A second player may only participate in sections of a level that use the in-game 2 player mode. If you complete a Two Player level solo, you must include a clearly visible webcam showing both hands throughout your entire completion. The handcam footage can be directly in the completion video, or recorded and uploaded separately from another device, with a link to view the footage in the submission notes.
+
+For many Two Player levels, there are 2 distinct entries on the website for either solo or 2 player completions. Upon attempting to submit a record for such a Two Player level, choose the option which aligns with the way it was completed, either "Solo" or "2P." 
+
+Two Player levels that do not have a specified "Solo" or "2P" placement on the list are allowed to be beaten with a second player. However, only the player who played for the complete duration of the level will be eligible to submit a record. A webcam is not required for these completions.
+
+Additionally, players may not switch who performs single player sections within a single attempt. All solo parts must be played by the same player during the completion attempt.
+
+Lastly, Two Player completions may be done remotely on Globed or through remote desktop software such as [Parsec](https://parsec.app/).
+
+## Globed 2P {:online-multiplayer}
+Globed 2P Completions are allowed, however, your video needs to have both POVs, or you need to submit your friend's video in the notes. Use of a Deathlink 2 player copy and Globed's deathlink setting is allowed for levels that do not work with Globed's built in 2P mode, but these completions need to be on an official AREDL Deathlink copy, which can be found on the ["AREDLofficial" Geometry Dash account](https://gdbrowser.com/u/aredlofficial). If the level does not have an official Deathlink copy, you may create or find your own (as long as the copy does not change the difficulty of the level and **retains the dual physics from normal dual sections**. Levels with Two Player gimmicks where the players are dependent on eachother, including but not limited to Crystal Crusher and Specthys, cannot be beaten through Globed as it makes these levels significantly easier or breaks them entirely. Instead, you could try playing through a remote desktop connection, using Parsec for example.) We recommend you approve this copy the same way you would an LDM or any other custom copy, which you can read more about [here](#custom-copies). Note that we also provide pre-approved Globed 2P copies on our website, which you can find by clicking on the arrow to the right of the "Level ID" text, if any.
