@@ -1,6 +1,6 @@
 # AREDL Guidelines {:home}
 
-**Welcome to the AREDL Guidelines!** This page provides an in-depth explanation of everything you need to know before you submit records to the AREDL. These guidelines are in place to help the list team confirm your legitimacy in your records, and to ensure a safe and fair experience to the community.
+**Welcome to the AREDL Guidelines!** This page provides an in-depth explanation of everything you need to know before you submit platformer records to the AREDL. These guidelines are in place to help the list team confirm your legitimacy in your records, and to ensure a safe and fair experience to the community.
 
 While these are the primary guidelines used by the list team to determine whether a record will be accepted or denied, we reserve the right to deny a record for suspicion of cheating. However, if you believe your record has been wrongfully rejected, please resubmit it and explain in the additional notes why you think so.
 

@@ -1,0 +1,11 @@
+# Miscellaneous {:miscellaneous}
+
+* If a loophole is used to avoid breaking a rule, the record will be treated the same way as if that rule was broken. What constitutes a loophole will be considered on a case-to-case basis, based on factors such as whether using the loophole results in the same advantage as breaking a specifically declared rule.
+* Your completion(s) must be done by you (the single owner of the account), having someone physically complete a level or section of a level for you will result in that record being invalidated.  
+  * For Pemonlist, TPL, and solo AREDL submissions, two-player levels or levels utilizing two-player mechanics must be completed solo. Two-player (2P) AREDL submissions must be completed with two players.
+  * For 2P AREDL submissions, players may not switch who performs single player sections within a single attempt. All solo parts must be played by the same player during the completion attempt.
+* You cannot submit records with multiple or alternate accounts.  
+* Playing on a copy of a level is allowed, but you cannot make any changes. Contact a member of the records team if you want to have an LDM approved for use.  
+* The video you submit will be publicly linked to your record. It must contain footage of your completion that accurately reflects your raw footage.  
+* **These guidelines apply equally to all devices (mobile, PC, etc.).** We may be slightly lenient with audibility of taps for mobile/controller users, but do not rely on any leniency. All records are subject to the exact same rules and expectations, and any leniency should not be assumed or expected to be applied, but we may be lenient on a case-to-case basis. If you have any questions about what is acceptable, please talk to a member of the records team.  
+* If the video to be displayed on the website contains any NSFW material, or otherwise excessively inappropriate content, we may take appropriate action: Pemonlist and AREDL may hide the video on your record from public view, and TPL may reject your record.  
